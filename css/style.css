@@ -233,7 +233,7 @@ footer {
   text-align: center;
   color: #FFF; }
 
-@media (min-width: 1025px) {
+@media (min-width: 769px) {
   /* Base
   ------------------------------------------------------------*/
   a:hover {
